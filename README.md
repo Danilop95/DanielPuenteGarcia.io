@@ -1,4 +1,4 @@
-# Jorge Macias personal web pages tutorial
+# Daniel Puente García personal web pages tutorial
 
 
 ### Hello World! 👋 :octocat:	
@@ -6,14 +6,14 @@
 > *People always say "hello world!" But never "how are you world?🌎"*
 
 I´m Ulmo! If u want to know more about me check below.  
-Visit [my online CV](https://ulmomacias.github.io).
-You can visit [my interactive bio](https://ulmomacias.github.io/Bio.html) to learn more about me
+Visit [my online CV](https://ulmoPuente García.github.io).
+You can visit [my interactive bio](https://ulmoPuente García.github.io/Bio.html) to learn more about me
 
 
 # ![me](https://media2.giphy.com/media/QyhbMNsMlmR5I1kgGn/giphy.gif)
 
 🔭 I’m currently studying two BS: Computer Science, Data Science <br/>
-📫 How to reach me: You can reach me on [linkdIn](https://www.linkedin.com/in/ulmo-macias/), or email at jorgemacias(at)ciencias.unam.mx
+📫 How to reach me: You can reach me on [linkdIn](https://www.linkedin.com/in/ulmo-Puente García/), or email at DanielPuente García(at)ciencias.unam.mx
 
 
 ## Interactive Bio

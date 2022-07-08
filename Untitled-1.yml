@@ -1,0 +1,6 @@
+appConfig:
+  auth:
+    users:
+    - user: danilop95
+      hash: 3BB978A449459E7758C5DAACB723A08C0A78862E01D61BB9C0DD071C94A25717
+      type: admin
