@@ -6,6 +6,3 @@
 </h1>
 
 <h4 align="center">https://danilop95.github.io/DanielPuenteGarcia.io</h4>
-
-> **Note**
-> 
